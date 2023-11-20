@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Terrorism
 
-**The Spark Foundation Verified Project** - [**Credentials**]
+**The Spark Foundation Verified Project** - [**Credentials**](https://truecertificates.com/verified/CWPTEQ665J)
 
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/021/862/738/non_2x/anti-terrorism-day-stop-the-war-background-with-soldiers-created-generative-ai-photo.jpeg)
 
